@@ -9,15 +9,10 @@ int main()
 	while(x!=1)
 	{
 		if(x%2==1)
-		{
 			x = 3*x+1;
-			cout << x << " " ;
-		}
 		else
-		{
 			x = x/2;
-			cout << x << " " ;
-		}
+		cout << x << " " ;
 	}
 	return 0;	
 }
