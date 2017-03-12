@@ -1,28 +1,0 @@
-Script started on 2017年03月11日 (週六) 16時11分18秒
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami; pwd
-pd2vm
-/home/pd2vm/lab1
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
-user.email=emilynov14@gmail.com
-user.name=emschenn
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-remote.origin.url=https://github.com/emschenn/lab1.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.master.remote=origin
-branch.master.merge=refs/heads/master
-remote.lab1.url=https://github.com/emschenn/lab1.git
-remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clonw[Ke =https://g ithub.com/emschenn/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\https://github.com/emschenn/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[Chttps://gi[1Pthub.com/emschenn/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[Chttps://git[1Phub.com/emschenn/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-Cloning into 'lab1'...
-remote: Counting objects: 18, done.[K
-remote: Compressing objects:   7% (1/13)   [Kremote: Compressing objects:  15% (2/13)   [Kremote: Compressing objects:  23% (3/13)   [Kremote: Compressing objects:  30% (4/13)   [Kremote: Compressing objects:  38% (5/13)   [Kremote: Compressing objects:  46% (6/13)   [Kremote: Compressing objects:  53% (7/13)   [Kremote: Compressing objects:  61% (8/13)   [Kremote: Compressing objects:  69% (9/13)   [Kremote: Compressing objects:  76% (10/13)   [Kremote: Compressing objects:  84% (11/13)   [Kremote: Compressing objects:  92% (12/13)   [Kremote: Compressing objects: 100% (13/13)   [Kremote: Compressing objects: 100% (13/13), done.[K
-remote: Total 18 (delta 3), reused 10 (delta 1), pack-reused 0[K
-Unpacking objects:   5% (1/18)   Unpacking objects:  11% (2/18)   Unpacking objects:  16% (3/18)   Unpacking objects:  22% (4/18)   Unpacking objects:  27% (5/18)   Unpacking objects:  33% (6/18)   Unpacking objects:  38% (7/18)   Unpacking objects:  44% (8/18)   Unpacking objects:  50% (9/18)   Unpacking objects:  55% (10/18)   Unpacking objects:  61% (11/18)   Unpacking objects:  66% (12/18)   Unpacking objects:  72% (13/18)   Unpacking objects:  77% (14/18)   Unpacking objects:  83% (15/18)   Unpacking objects:  88% (16/18)   Unpacking objects:  94% (17/18)   Unpacking objects: 100% (18/18)   Unpacking objects: 100% (18/18), done.
-Checking connectivity... done.
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
-
-Script done on 2017年03月11日 (週六) 16時12分28秒
