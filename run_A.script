@@ -1,0 +1,30 @@
+Script started on 2017年03月12日 (週日) 17時29分35秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m whoami; pwd
+pd2vm
+/home/pd2vm/lab1/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m gitcon[K[K[K cong[Kfig -l
+user.email=emilynov14@gmail.com
+user.name=emschenn
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/emschenn/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m git config -l[2Pwhoami; pwdgit clone httpss://github.com/emschenn/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m [C[C[C[C[C[1Ponfig -l
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd lab1[Kwhoami; pwdls[Kcd lab1rm[C[C[C[C[Cls[Kcd lab1ls[Kgit pushcommit -m"aadd a.script into repository"[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m [C[C[C[Cadd a.script[K[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd lab1ls[Kgit add .a.scrippt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m mv a.script lab1[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m [2Pcat a.script
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript a.scriptt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m ./a[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ -o a A.cpp [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pcd lab1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config -l-gllobal user.name"emschenn"[C[C[C[C[C[C[C[C[C[C[Cemail"emilynov14@gmail.com"[A[C[C[C[Clone https[6P://github.com/emschenn/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m [C[C[C[C[C[1Ponfig -l
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone httpss://github.com/emschenn/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 21, done.[K
+remote: Compressing objects:   6% (1/16)   [Kremote: Compressing objects:  12% (2/16)   [Kremote: Compressing objects:  18% (3/16)   [Kremote: Compressing objects:  25% (4/16)   [Kremote: Compressing objects:  31% (5/16)   [Kremote: Compressing objects:  37% (6/16)   [Kremote: Compressing objects:  43% (7/16)   [Kremote: Compressing objects:  50% (8/16)   [Kremote: Compressing objects:  56% (9/16)   [Kremote: Compressing objects:  62% (10/16)   [Kremote: Compressing objects:  68% (11/16)   [Kremote: Compressing objects:  75% (12/16)   [Kremote: Compressing objects:  81% (13/16)   [Kremote: Compressing objects:  87% (14/16)   [Kremote: Compressing objects:  93% (15/16)   [Kremote: Compressing objects: 100% (16/16)   [Kremote: Compressing objects: 100% (16/16), done.[K
+remote: Total 21 (delta 4), reused 13 (delta 1), pack-reused 0[K
+Unpacking objects:   4% (1/21)   Unpacking objects:   9% (2/21)   Unpacking objects:  14% (3/21)   Unpacking objects:  19% (4/21)   Unpacking objects:  23% (5/21)   Unpacking objects:  28% (6/21)   Unpacking objects:  33% (7/21)   Unpacking objects:  38% (8/21)   Unpacking objects:  42% (9/21)   Unpacking objects:  47% (10/21)   Unpacking objects:  52% (11/21)   Unpacking objects:  57% (12/21)   Unpacking objects:  61% (13/21)   Unpacking objects:  66% (14/21)   Unpacking objects:  71% (15/21)   Unpacking objects:  76% (16/21)   Unpacking objects:  80% (17/21)   Unpacking objects:  85% (18/21)   Unpacking objects:  90% (19/21)   Unpacking objects:  95% (20/21)   Unpacking objects: 100% (21/21)   Unpacking objects: 100% (21/21), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m 
+Script done on 2017年03月12日 (週日) 17時30分10秒
