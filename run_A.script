@@ -1,28 +1,0 @@
-Script started on 2017年03月12日 (週日) 17時47分51秒
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m whoami; pwd
-pd2vm
-/home/pd2vm/lab1/lab1
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m git config -l
-user.email=emilynov14@gmail.com
-user.name=emschenn
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-remote.origin.url=https://github.com/emschenn/lab1.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.master.remote=origin
-branch.master.merge=refs/heads/master
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m git clone http s:??github.com[K[K[K[K[K[K[K[K[K[K[K[K//github.ci[Kom/emscjh[K[Khenn/lab1.git
-Cloning into 'lab1'...
-remote: Counting objects: 27, done.[K
-remote: Compressing objects:   5% (1/20)   [Kremote: Compressing objects:  10% (2/20)   [Kremote: Compressing objects:  15% (3/20)   [Kremote: Compressing objects:  20% (4/20)   [Kremote: Compressing objects:  25% (5/20)   [Kremote: Compressing objects:  30% (6/20)   [Kremote: Compressing objects:  35% (7/20)   [Kremote: Compressing objects:  40% (8/20)   [Kremote: Compressing objects:  45% (9/20)   [Kremote: Compressing objects:  50% (10/20)   [Kremote: Compressing objects:  55% (11/20)   [Kremote: Compressing objects:  60% (12/20)   [Kremote: Compressing objects:  65% (13/20)   [Kremote: Compressing objects:  70% (14/20)   [Kremote: Compressing objects:  75% (15/20)   [Kremote: Compressing objects:  80% (16/20)   [Kremote: Compressing objects:  85% (17/20)   [Kremote: Compressing objects:  90% (18/20)   [Kremote: Compressing objects:  95% (19/20)   [Kremote: Compressing objects: 100% (20/20)   [Kremote: Compressing objects: 100% (20/20), done.[K
-remote: Total 27 (delta 6), reused 19 (delta 3), pack-reused 0[K
-Unpacking objects:   3% (1/27)   Unpacking objects:   7% (2/27)   Unpacking objects:  11% (3/27)   Unpacking objects:  14% (4/27)   Unpacking objects:  18% (5/27)   Unpacking objects:  22% (6/27)   Unpacking objects:  25% (7/27)   Unpacking objects:  29% (8/27)   Unpacking objects:  33% (9/27)   Unpacking objects:  37% (10/27)   Unpacking objects:  40% (11/27)   Unpacking objects:  44% (12/27)   Unpacking objects:  48% (13/27)   Unpacking objects:  51% (14/27)   Unpacking objects:  55% (15/27)   Unpacking objects:  59% (16/27)   Unpacking objects:  62% (17/27)   Unpacking objects:  66% (18/27)   Unpacking objects:  70% (19/27)   Unpacking objects:  74% (20/27)   Unpacking objects:  77% (21/27)   Unpacking objects:  81% (22/27)   Unpacking objects:  85% (23/27)   Unpacking objects:  88% (24/27)   Unpacking objects:  92% (25/27)   Unpacking objects:  96% (26/27)   Unpacking objects: 100% (27/27)   Unpacking objects: 100% (27/27), done.
-Checking connectivity... done.
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m g++ -o a A.cpp [A
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m ./a
-input: 22
-22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1/lab1 $[00m exit
-
-Script done on 2017年03月12日 (週日) 17時49分25秒
